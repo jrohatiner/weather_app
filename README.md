@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **Run npm start**
 
-## To Deploy Run:
+## To Build For Prod Run:
 **npm build**
 
 ## Available Scripts
