@@ -1,0 +1,61 @@
+.textInput {
+    font-size: large;
+    border: 1px solid #EEEEEE;
+    padding: 5px;
+    border-radius: 3px;
+    display: block;
+    margin: 5px auto;
+}
+
+.textInput:focus {
+    outline: none;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px rgb(50, 100, 153);
+}
+
+.Radio {
+    font-size: small;
+}
+
+/*.Button {*/
+/*    display: block;*/
+/*    margin: 10px auto;*/
+/*    padding: .5rem;*/
+/*    font-size: 1em;*/
+/*    background: #5a5d62;*/
+/*    border-radius: 5px;*/
+/*    color: white;*/
+/*    cursor: pointer;*/
+/*}*/
+.Button {
+    border-radius: 0px;
+    color: white;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    border: 0;
+    line-height: 1.5;
+    padding: 8px 10px;
+    font-size: 1rem;
+    text-align: center;
+    text-shadow: 1px 1px 1px #5a5d62;
+    background-color: #5a5d62;
+    background-image: linear-gradient(to top left,
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .2) 30%,
+    rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+    inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.Button:hover {
+    background-color: #4f6f3dc2;
+}
+
+.Button:active {
+    background-color:  #4e693fe0;
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+    inset 2px 2px 3px #4e693f91;
+
+}
+
