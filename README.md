@@ -25,5 +25,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Enjoy! 
 
 [Report issues Here](https://github.com/jrohatiner/weather_app/issues) 
+
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/460875/weather.png)
 
