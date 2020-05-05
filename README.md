@@ -22,7 +22,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * test
 * build
 
-Enjoy! 
+Enjoy!  
+
 **please note** You need to create an env file in src with:
 ```REACT_APP_API_KEY=your API Key here```
 
