@@ -23,6 +23,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * build
 
 Enjoy! 
+**please note** You need to create an env file in src with:
+```REACT_APP_API_KEY=your API Key here```
 
 [Report issues Here](https://github.com/jrohatiner/weather_app/issues) 
 
